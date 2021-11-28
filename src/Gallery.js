@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import Pagination from './components/Pagination'
+import Pagination from './components/Pagination';
+import'bootstrap/dist/css/bootstrap.min.css';
+
 
 function Gallery() {
 
